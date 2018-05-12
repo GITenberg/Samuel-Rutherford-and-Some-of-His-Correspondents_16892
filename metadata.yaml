@@ -1,0 +1,29 @@
+_repo: Samuel-Rutherford-and-Some-of-His-Correspondents_16892
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whyte, Alexander
+    birthdate: 1836
+    deathdate: 1921
+    gutenberg_agent_id: '734'
+    url: http://www.gutenberg.org/2009/agents/734
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Whyte
+description: ''
+gutenberg_issued: '2005-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rutherford, Samuel, 1600?-1661'
+- !lcsh 'Church of Scotland -- Clergy -- Biography'
+- !lcsh 'Rutherford, Samuel, 1600?-1661 -- Correspondence'
+- !lcc 'BX'
+title: Samuel Rutherford and Some of His Correspondents
+url: http://www.gutenberg.org/ebooks/16892
